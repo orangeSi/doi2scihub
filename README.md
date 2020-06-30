@@ -2,7 +2,6 @@
 A simple chrome extension to navigate to scihub  by doi in the paper webpage.
 <br>
 <br>
-<br>
 ### Install the extension from source:
 ```
 Install the extension from source:
@@ -12,7 +11,6 @@ step3: chick the button "load unpacked extension" in the left-up corner and sele
 step4: done
 ```
 
-<br>
 
 ### Usage:
 ```
