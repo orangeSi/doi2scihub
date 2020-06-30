@@ -1,5 +1,7 @@
 # doi2scihub
-a simple chrome extension to navigate to scihub  by doi for dowloading paper
+A simple chrome extension to navigate to scihub  by doi in the paper webpage.
+<br>
+<br>
 <br>
 Install the extension from source:
 ```
@@ -10,6 +12,7 @@ step3: chick the button "load unpacked extension" in the left-up corner and sele
 step4: done
 ```
 
+<br>
 Usage:
 ```
 After install, then open https://pubmed.ncbi.nlm.nih.gov/31021201/ with chrome, will see the green background button for navigater to scihub!
