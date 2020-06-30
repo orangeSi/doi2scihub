@@ -18,4 +18,4 @@ step4: done
 After install, then open https://pubmed.ncbi.nlm.nih.gov/31021201/ for test with chrome,
 then click the green background button for navigate to scihub!
 ```
-![gene cluster image](example.png)
+![example web page](example.png)
