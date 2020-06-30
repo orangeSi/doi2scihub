@@ -16,6 +16,6 @@ step4: done
 ### Usage:
 ```
 After install, then open https://pubmed.ncbi.nlm.nih.gov/31021201/ with chrome,
-will see the green background button for navigater to scihub!
+then click the green background button for navigate to scihub!
 ```
 ![gene cluster image](example.png)
