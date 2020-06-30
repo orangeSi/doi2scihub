@@ -3,7 +3,7 @@ A simple chrome extension to navigate to scihub  by doi in the paper webpage.
 <br>
 <br>
 <br>
-Install the extension from source:
+### Install the extension from source:
 ```
 Install the extension from source:
 step1: git clone https://github.com/orangeSi/doi2scihub.git
@@ -13,7 +13,8 @@ step4: done
 ```
 
 <br>
-Usage:
+
+### Usage:
 ```
 After install, then open https://pubmed.ncbi.nlm.nih.gov/31021201/ with chrome, will see the green background button for navigater to scihub!
 ```
