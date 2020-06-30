@@ -14,3 +14,4 @@ Usage:
 ```
 After install, then open https://pubmed.ncbi.nlm.nih.gov/31021201/ with chrome, will see the green background button for navigater to scihub!
 ```
+![gene cluster image](example.png)
